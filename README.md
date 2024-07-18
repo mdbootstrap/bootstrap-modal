@@ -1,4 +1,4 @@
-# Free Bootstrap NAME & Components Collection
+# Free Bootstrap Modal & Components Collection
 
 Responsive popup window with Bootstrap 5. Examples of with image, modal position i.e. center, z-index usage, modal fade animation, backdrop usage, modal size & more.
 
