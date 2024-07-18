@@ -1,56 +1,73 @@
-# How to use Bootstrap Modal?
+# Free Bootstrap NAME & Components Collection
 
-Modal is a responsive popup used to display extra content. That includes prompts, configurations, cookie consents, etc.
+Responsive popup window with Bootstrap 5. Examples of with image, modal position i.e. center, z-index usage, modal fade animation, backdrop usage, modal size & more.
 
-**To use modal you need:**
+<p><strong>How to use it?</strong></p>
+<p class="mb-2">
+<strong>1. </strong>Download<a target="_blank" href="https://mdbootstrap.com/docs/standard/"> MDB 5 - free UI KIT</a></p>
+<p class="mb-2"><strong>2. </strong>Choose your favourite customized example and click <code>show code</code> to see the code</p>
+<p class="mb-3"><strong>3. </strong>Copy & paste the code into your MDB project</p>
 
-* A trigger (for example a button)
-* Modal itself
+--------------------
 
-```html
-<!-- Button trigger modal -->
-<button
-  type="button"
-  class="btn btn-primary"
-  data-mdb-toggle="modal"
-  data-mdb-target="#exampleModal"
->
-  Launch demo modal
-</button>
+[📄 **Documentation & usage guide**](https://mdbootstrap.com/docs/standard/components/modal/)
 
-<!-- Modal -->
-<div
-  class="modal fade"
-  id="exampleModal"
-  tabindex="-1"
-  aria-labelledby="exampleModalLabel"
-  aria-hidden="true"
->
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">
-          Modal title
-        </h5>
-        <button
-          type="button"
-          class="btn-close"
-          data-mdb-dismiss="modal"
-          aria-label="Close"
-        ></button>
-      </div>
-      <div class="modal-body">...</div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">
-          Close
-        </button>
-        <button type="button" class="btn btn-primary">
-          Save changes
-        </button>
-      </div>
-    </div>
-  </div>
-</div>
-```
+These components were built with a **free Material Design UI Kit for the latest Bootstrap 5**.
 
-#### Much more examples and a detailed description can be found at [📄 Documentation page](https://mdbootstrap.com/how-to/bootstrap/use-modal/)
+<img height="25" src="https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-r.png">  [![GitHub Stars](https://img.shields.io/github/stars/mdbootstrap/mdb-ui-kit?label=Star%20now&style=social)](https://github.com/mdbootstrap/mdb-ui-kit/)
+
+---------------------
+
+ <h2 class="mb-4">Basic example</h2> 
+
+ [![Bootstrap 5 Modal](/assets/basic-example.png)](https://mdbootstrap.com/docs/standard/components/modal/#section-basic-example)
+
+ 
+ <hr class="my-5">
+
+ <h2 class="mb-4">Modal components</h2> 
+
+ [![Bootstrap 5 Modal](/assets/modal-compontents.png)](https://mdbootstrap.com/docs/standard/components/modal/#section-modal-components)
+
+ 
+ <hr class="my-5">
+
+ <h2 class="mb-4">Scrolling long content</h2> 
+
+ [![Bootstrap 5 Modal](/assets/scrolling-long-content.png)](https://mdbootstrap.com/docs/standard/components/modal/#section-scrolling-long-content)
+
+ 
+ <hr class="my-5">
+
+ <h2 class="mb-4">Tooltips and popovers</h2> 
+
+ [![Bootstrap 5 Modal](/assets/toolips-and-popovers.png)](https://mdbootstrap.com/docs/standard/components/modal/#section-tooltips-and-popovers)
+
+ 
+ <hr class="my-5">
+
+ <h2 class="mb-4">Varying modal content</h2> 
+
+ [![Bootstrap 5 Modal](/assets/varying-modal-content.png)](https://mdbootstrap.com/docs/standard/components/modal/#section-varying-modal-content)
+
+
+ 
+ <hr class="my-5">
+
+<h4>For more examples visit our <a target="_blank" href="https://mdbootstrap.com/docs/standard/components/modal/">documentation</a>.</h4>
+
+ <hr class="my-5">
+
+<h3>Related Resources</h3>
+
+<h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/components/buttons/">Buttons</a></h5>
+
+<h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/components/cards/">Cards</a></h5>
+
+<h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/components/carousel/">Carousel</a></h5>
+
+<h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/components/dropdowns/">Dropdowns</a></h5>
+
+<h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/components/popovers/">Popovers</a></h5>
+
+
